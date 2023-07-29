@@ -1,0 +1,270 @@
+{
+     id: 1,
+     "icon": "+",
+    "name": "Assets",
+    "code": 10000000,
+    "debit": 20000000,
+    "credit": 3000000,
+     isOpen: true
+  },
+  {
+    id: 2,
+    "icon": "+",
+    "name": "Current Assets",
+    "code": 22222222,
+    "debit": 20000000,
+    "credit": 3000000,
+     isOpen: false
+  },
+ {
+     id:3,
+     "icon": "+",
+     "name": "Cash and Cash Equivalents",
+     "code": 10000000,
+     "debit": 3333333,
+    "credit": 3000000,
+     isOpen: false
+ },
+ {
+    id: 4,
+    "icon": "+",
+    "name": "Cash on Hand",
+    "code": 10000000,
+    "debit": 3333333,
+    "credit": 3000000,
+    isOpen: false
+ },
+ {
+     id:5,
+     "icon": " ",
+     "name": "Petty Cash",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+ },
+  {
+    "name": "Cash in Bank-Local Currency",
+     "icon": "+",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Cash in Bank-Local Currency, Current Account",
+    "code": 10102020,
+    "icon": "",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Cash in Bank-Local Currency, Savings Account",
+    "code": 10102030,
+    "icon": "",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Inventories",
+    "code": 10400000,
+    "icon": "+",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Inventory Held for Consumption",
+    "code": 10404000,
+    "icon": "+",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Office Supplies Inventory",
+    "code": 10404010,
+    "icon": "",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Receivables",
+    "code": 10300000,
+    "icon": "+",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Other Receivables",
+    "code": 0,
+    "icon": "",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Due from Officers and Employees",
+    "code": 0,
+    "icon": "",
+     "code": 10101020,
+     "debit": 3333333,
+    "credit": 3000000,
+      isOpen: false
+  },
+  {
+    "name": "Other Receivables",
+    "code": 0,
+  },
+  {
+    "name": "Loan and Receivable Accounts",
+    "code": 0,
+  },
+  {
+    "name": "Allowance for Impairement-Accounts Receivable",
+    "code": 0,
+  },   
+  {
+    "name": "Account Receivable",
+    "code": 0,
+  },
+  {
+    "name": "Other Assets",
+    "code": 0,
+  },
+  {
+    "name": "Other Assets",
+    "code": 0,
+  },
+  {
+    "name": "Other Assets",
+    "code": 0,
+  },
+  {
+    "name": "Prepayments",
+    "code": 0,
+  },
+  {
+    "name": "Prepaid Rent",
+    "code": 0,
+  },
+  {
+    "name": "Prepaid Insurance",
+    "code": 0,
+  },
+  {
+    "name": "Input Tax",
+    "code": 0,
+  },
+  {
+    "name": "Withholding Tax at Source",
+    "code": 0,
+  },
+  {
+    "name": "Other Prepayments",
+    "code": 0,
+  },
+  {
+    "name": "Prepaid Interrest",
+    "code": 0,
+  },
+  {
+    "name": "Advances",
+    "code": 0,
+  },
+  {
+    "name": "Advance to Officers and Employees",
+    "code": 0,
+  },
+  {
+    "name": "Non-current Assets",
+    "code": 0,
+  },
+  {
+    "name": "Deferred Tax Assets",
+    "code": 0,
+  },
+  {
+    "name": "Deferred Tax Assets",
+    "code": 0,
+  },
+  {
+    "name": "Deferred Tax Assets",
+    "code": 0,
+  },
+  {
+    "name": "Property and Plans Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Transportation Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Motor Vehicle",
+    "code": 0,
+  },
+  {
+    "name": "Accumulated Depreciation-Motor Vehicles",
+    "code": 0,
+  },
+  {
+    "name": "Machinery and Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Accumulated Depreciation-Information and Communications Technology Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Office Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Accumulated Depreciation-Office Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Information and Communication Technology Equipment",
+    "code": 0,
+  },
+  {
+    "name": "Intangible Assets",
+    "code": 0,
+  },
+  {
+    "name": "Intangible Assets",
+    "code": 0,
+  },
+  {
+    "name": "Computer Software",
+    "code": 0,
+  },
+  {
+    "name": "Accumulated Amortization-Computer Software",
+    "code": 0,
+  },
+  {
+    "name": "Receivables",
+    "code": 0,
+  },
+  {
+    "name": "Loan and Receivable Account",
+    "code": 0,
+  },
+  {
+    "name": "Sales Contract Receivable",
+    "code": 0,
+  },
+   
