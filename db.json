@@ -44,6 +44,7 @@
       isOpen: false
  },
   {
+     id:6,  
     "name": "Cash in Bank-Local Currency",
      "icon": "+",
      "code": 10101020,
@@ -52,6 +53,7 @@
       isOpen: false
   },
   {
+     id:7,
     "name": "Cash in Bank-Local Currency, Current Account",
     "code": 10102020,
     "icon": "",
@@ -70,6 +72,7 @@
       isOpen: false
   },
   {
+     id:8,
     "name": "Inventories",
     "code": 10400000,
     "icon": "+",
@@ -79,6 +82,7 @@
       isOpen: false
   },
   {
+     id:9,
     "name": "Inventory Held for Consumption",
     "code": 10404000,
     "icon": "+",
@@ -88,6 +92,7 @@
       isOpen: false
   },
   {
+     id:10,
     "name": "Office Supplies Inventory",
     "code": 10404010,
     "icon": "",
@@ -97,6 +102,7 @@
       isOpen: false
   },
   {
+     id:11,
     "name": "Receivables",
     "code": 10300000,
     "icon": "+",
@@ -106,6 +112,7 @@
       isOpen: false
   },
   {
+     id:12,
     "name": "Other Receivables",
     "code": 0,
     "icon": "",
@@ -115,6 +122,7 @@
       isOpen: false
   },
   {
+     id:13,
     "name": "Due from Officers and Employees",
     "code": 0,
     "icon": "",
@@ -124,30 +132,37 @@
       isOpen: false
   },
   {
+     id:14,
     "name": "Other Receivables",
     "code": 0,
   },
   {
+     id:15,
     "name": "Loan and Receivable Accounts",
     "code": 0,
   },
   {
+     id:16,
     "name": "Allowance for Impairement-Accounts Receivable",
     "code": 0,
   },   
   {
+     id:17,
     "name": "Account Receivable",
     "code": 0,
   },
   {
+     id:18,
     "name": "Other Assets",
     "code": 0,
   },
   {
+     id:19,
     "name": "Other Assets",
     "code": 0,
   },
   {
+     id:20,
     "name": "Other Assets",
     "code": 0,
   },
